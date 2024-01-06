@@ -1,3 +1,3 @@
 # treino-html
 
-apenaspara estudos em html
+apenas para estudos em html
